@@ -50,7 +50,7 @@ export const CategoryItem = ({
       )}
       type="button"
     >
-      {Icon && <Icon size={25} />}
+      {Icon && <Icon size={20} />}
       <div className="truncate">
         {label}
       </div>
